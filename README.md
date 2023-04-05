@@ -35,22 +35,13 @@
 
 `LinearTimelock.sol` forked from [second-state/linear-timelock-smart-contract](https://github.com/second-state/linear-timelock-smart-contract/blob/main/LinearTimelock.sol)
 
-- Game ecosystem. 112,500,000 ROW, linear vesting for 36 months
-- Deployed at address: [0xf3d672822FD4907117F98c65d9b8140588b0e38a](https://bscscan.com/address/0xf3d672822fd4907117f98c65d9b8140588b0e38a)
-- Liquidity and listing. 14,000,000 ROW, linear vesting for 12 months
-- Deployed at address: [0xFc46810566E4b0b57731e746369F130eF1d611c7](https://bscscan.com/address/0xfc46810566e4b0b57731e746369f130ef1d611c7)
-- Yield Farming. 17,500,000 ROW, lock for 9 months, linear vesting for 12 months
-- Deployed at address: [0x807B1Bd2b8d9C5a3a5b9835f89eaDd0E46E352D2](https://bscscan.com/address/0x807b1bd2b8d9c5a3a5b9835f89eadd0e46e352d2)
-- Game Development. 25,000,000 ROW, linear vesting for 36 months
-- Deployed at address: [0xC76DA609ceA659CDF864df0bF95F693D3be70A89](https://bscscan.com/address/0xc76da609cea659cdf864df0bf95f693d3be70a89)
-- Community & Marketing. 25,000,000 ROW, linear vesting for 36 months
-- Deployed at address: [0x843Ae2BBFb434503e214e5db5Dd70D6E71d510dD](https://bscscan.com/address/0x843ae2bbfb434503e214e5db5dd70d6e71d510dd)
-- Team. 20,000,000 ROW, lock for 12 months, linear vesting for 24 months
-- Deployed at address: [0x0Dae40426e4AD55f0979B489A8d4692E3caC7075](https://bscscan.com/address/0x0dae40426e4ad55f0979b489a8d4692e3cac7075)
-- Advisors & Partners. 12,500,000 ROW, lock for 6 months, linear vesting for 24 months
-- Deployed at address: [0xaa9A576021E862FeC36D3120f09DCca54A56CADE](https://bscscan.com/address/0xaa9a576021e862fec36d3120f09dcca54a56cade)
-- Airdrops. 2,500,000 ROW, linear vesting for 6 months
-- Deployed at address: [0xeFEB08a35c79312694dF893f9d604AB3B8b70055](https://bscscan.com/address/0xefeb08a35c79312694df893f9d604ab3b8b70055)
-- Treasury reserves. 12,500,000 ROW, linear vesting for 36 months
-- Deployed at address: [0xa1406E9181012843560e67Ca2ce8Aebd6b4a83D5](https://bscscan.com/address/0xa1406e9181012843560e67ca2ce8aebd6b4a83d5)
-- LP				`TBA`
+- Game ecosystem		Deployed at address: [0xf3d672822FD4907117F98c65d9b8140588b0e38a](https://bscscan.com/address/0xf3d672822fd4907117f98c65d9b8140588b0e38a)
+- Liquidity and listing		Deployed at address: [0xFc46810566E4b0b57731e746369F130eF1d611c7](https://bscscan.com/address/0xfc46810566e4b0b57731e746369f130ef1d611c7)
+- Yield Farming			Deployed at address: [0x807B1Bd2b8d9C5a3a5b9835f89eaDd0E46E352D2](https://bscscan.com/address/0x807b1bd2b8d9c5a3a5b9835f89eadd0e46e352d2)
+- Game Development		Deployed at address: [0xC76DA609ceA659CDF864df0bF95F693D3be70A89](https://bscscan.com/address/0xc76da609cea659cdf864df0bf95f693d3be70a89)
+- Community & Marketing		Deployed at address: [0x843Ae2BBFb434503e214e5db5Dd70D6E71d510dD](https://bscscan.com/address/0x843ae2bbfb434503e214e5db5dd70d6e71d510dd)
+- Team				Deployed at address: [0x0Dae40426e4AD55f0979B489A8d4692E3caC7075](https://bscscan.com/address/0x0dae40426e4ad55f0979b489a8d4692e3cac7075)
+- Advisors & Partners		Deployed at address: [0xaa9A576021E862FeC36D3120f09DCca54A56CADE](https://bscscan.com/address/0xaa9a576021e862fec36d3120f09dcca54a56cade)
+- Airdrops			Deployed at address: [0xeFEB08a35c79312694dF893f9d604AB3B8b70055](https://bscscan.com/address/0xefeb08a35c79312694df893f9d604ab3b8b70055)
+- Treasury reserves		Deployed at address: [0xa1406E9181012843560e67Ca2ce8Aebd6b4a83D5](https://bscscan.com/address/0xa1406e9181012843560e67ca2ce8aebd6b4a83d5)
+- Cake-LP			Deployed at address: [0xD88040186cbAA36F05c8Fed60C1f458C67dF5ac0](https://bscscan.com/address/0xd88040186cbaa36f05c8fed60c1f458c67df5ac0)
