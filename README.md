@@ -6,7 +6,7 @@
 
 - Deployed at address: [0x026dB614F070CB4C7E421dA22Df84eA1021236eB](https://bscscan.com/address/0x026db614f070cb4c7e421da22df84ea1021236eb)
 - with constructor args: 'RageOnWheels', 'ROW', supply, decimals, '0x5455E4FFd530E175441570F7a7166F39A07a5e88'
-
+- Security Audit: [Verichains](https://github.com/verichains/public-audit-reports/blob/main/Verichains%20Public%20Audit%20Report%20-%20RageOnWheels%20Token%20-%20v1.0.pdf)
 
 ## Rage On Wheels ERC-721 mint contract
 
