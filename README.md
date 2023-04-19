@@ -27,5 +27,5 @@
 
 `row-vrf.sol`
 
-- Deployed at address: [0xFb5A86d4415Bc0004eC2a93F7A69dD5A7708c8bF](https://bscscan.com/address/0xfb5a86d4415bc0004ec2a93f7a69dd5a7708c8bf)
+- Deployed at address: [0xb18688788b5949552bc5226b91070624c41600a6](https://bscscan.com/address/0xb18688788b5949552bc5226b91070624c41600a6)
 - with constructor args: '0x4Cd3903c486ee86DB25057E5740edB9745bEF4b2'
